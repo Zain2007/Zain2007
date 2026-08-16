@@ -8,11 +8,11 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url">
+  <a href="https://www.linkedin.com/in/mohamed-alhadi-798000258/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://zain2007.github.io/">
   <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Now-green?style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Alzain9223@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 

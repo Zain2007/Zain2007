@@ -37,11 +37,17 @@ I'm continuously learning and building projects that combine analytics, engineer
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-## 🌱 Currently Learning 
+## 📚 Currently Learning
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
+- 🗄️ **SQL for Data Analysis & Business Intelligence**
+  
+- 🐍 **Python for Data Analysis & Automation**
+  
+- ⚙️ **Data Engineering Fundamentals & Data Pipelines**
+  
+- 🔄 **ETL & Modern Data Workflows**
+  
+- 🚀 **End-to-End Data Engineering Projects**
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->

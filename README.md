@@ -73,8 +73,9 @@ I'm continuously learning and building projects that combine analytics, engineer
   <img src="https://img.shields.io/badge/Statistics-Advanced-2E8B57?style=flat" alt="Statistics">
 </p>
 
-#### ⚙️ Data Engineering
+#### ⚙️ Data Engineering — Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Pipelines-Learning-4B5563?style=flat" alt="ETL and Data Pipelines">
-  <img src="https://img.shields.io/badge/Data%20Engineering-Learning-4B5563?style=flat" alt="Data Engineering">
+  <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Pipelines-Learning-6B7280?style=flat" alt="ETL and Data Pipelines">
+  <img src="https://img.shields.io/badge/Data%20Engineering-Learning-6B7280?style=flat" alt="Data Engineering">
+  <img src="https://img.shields.io/badge/Modern%20Data%20Workflows-Learning-6B7280?style=flat" alt="Modern Data Workflows">
 </p>

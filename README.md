@@ -30,29 +30,29 @@ I'm continuously learning and building projects that combine analytics, engineer
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://zain2007.github.io/)
-      
+<!--      
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
+-->
 ## 📚 Currently Learning
 
-- 🗄️ **SQL for Data Analysis & Business Intelligence**
+-  **SQL for Data Analysis & Business Intelligence**
   
-- 🐍 **Python for Data Analysis & Automation**
+-  **Python for Data Analysis & Automation**
   
-- ⚙️ **Data Engineering Fundamentals & Data Pipelines**
+-  **Data Engineering Fundamentals & Data Pipelines**
   
-- 🔄 **ETL & Modern Data Workflows**
+-  **ETL & Modern Data Workflows**
   
-- 🚀 **End-to-End Data Engineering Projects**
+-  **End-to-End Data Engineering Projects**
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### 📊 Data Analysis & Business Intelligence
+####  Data Analysis & Business Intelligence
 <p>
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
@@ -60,20 +60,20 @@ I'm continuously learning and building projects that combine analytics, engineer
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
 
-#### 🐍 Programming & Development
+####  Programming & Development
 <p>
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
-#### 🤖 Machine Learning & NLP
+####  Machine Learning & NLP
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-FF6F00?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/NLP-Advanced-8E44AD?style=flat" alt="Natural Language Processing">
   <img src="https://img.shields.io/badge/Statistics-Advanced-2E8B57?style=flat" alt="Statistics">
 </p>
 
-#### ⚙️ Data Engineering — Currently Learning
+####  Data Engineering — Currently Learning
 <p>
   <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Pipelines-Learning-6B7280?style=flat" alt="ETL and Data Pipelines">
   <img src="https://img.shields.io/badge/Data%20Engineering-Learning-6B7280?style=flat" alt="Data Engineering">
